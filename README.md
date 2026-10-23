@@ -1,2 +1,2 @@
 # Python
-This repository contains some exercises that I made to learn 
+This repository contains some exercises that I made
